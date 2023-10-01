@@ -1,36 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/Jokeandlagguage/joke/genshin.html</loc>
-    </url>
-    <url>
-        <loc>/Jokeandlagguage/joke/readme.html</loc>
-    </url>
-    <url>
-        <loc>/Jokeandlagguage/joke/WhatpeoplesaytoDDoS.html</loc>
-    </url>
-    <url>
-        <loc>/Jokeandlagguage/language/index-English.html</loc>
-    </url>
-    <url>
-        <loc>/Jokeandlagguage/language/index-japenese.html</loc>
-    </url>
-    <url>
         <loc>/404.html</loc>
     </url>
     <url>
-        <loc>/ADMINS.html</loc>
+        <loc>/殿堂入り.html</loc>
     </url>
     <url>
-        <loc>/Gallery.html</loc>
+        <loc>/管理者.html</loc>
+    </url>
+    <url>
+        <loc>/原神.html</loc>
     </url>
     <url>
         <loc>/</loc>
     </url>
     <url>
-        <loc>/THANKS.html</loc>
+        <loc>/アクセスを拒否する分散した人々のためのいくつかの言葉.html</loc>
     </url>
     <url>
-        <loc>/yansheng.html</loc>
+        <loc>/ありがとうございました.html</loc>
+    </url>
+    <url>
+        <loc>/イメージギャラリー.html</loc>
+    </url>
+    <url>
+        <loc>/リレーショナル サーバー.html</loc>
     </url>
 </urlset>
